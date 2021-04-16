@@ -1,3 +1,3 @@
-- [x] GitHub Tutorial
-- [ ] GitHub Pages
-- [ ] Preview webpage
+- [x] Follow GitHub Tutorial
+- [x] Activate GitHub Pages
+- [x] Complete Portfolio webpage
