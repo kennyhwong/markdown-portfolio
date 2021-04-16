@@ -1,1 +1,1 @@
-This is a *new project* to learn how to use **Markdown** formatting and create a new ***GitHub Page*** portfolio. I followed the tutorial to  create successive updates by ___committing___ _edits_.
+This is a *new project* for me to learn how to use **Markdown** formatting and create a new ***GitHub Page*** portfolio. I followed the tutorial to create successive updates by committing multiple edits through the _Git Bash_ command line interface.
